@@ -1,2 +1,2 @@
-console.log("sad")
+console.log("sadnaman");
 
